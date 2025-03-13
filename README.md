@@ -9,8 +9,8 @@ and teamwork abilities, preparing you for real-world software development.
 
 You need to implement an application, that stores the data of football match statistics. 
 
-✅ Each class should implement the necessary CRUD operations relevant to its role.
-✅ Each class should only perform operations directly related to its attributes and role in the system.
+✅ Each class should implement the necessary CRUD operations relevant to its role.  
+✅ Each class should only perform operations directly related to its attributes and role in the system.  
 ✅ In addition to the logic described below, you must implement various sorting and filtering operations of your choice.
     For example, identifying the top three teams in 2024 or the player with the highest goal count in a team.
 
